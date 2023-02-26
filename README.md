@@ -25,19 +25,15 @@ The Kafka Connect API to build and run reusable data import/export connectors th
 
 ##### 1- Kafka  ![WIDE - Black on Transparent](https://user-images.githubusercontent.com/62883434/221398495-585c1954-a9b5-4166-81bf-823d2f4a395d.png)
 
-
 ##### 2- Kafka-connect  ![connect](https://user-images.githubusercontent.com/62883434/221398441-d0f137b8-fb0a-4584-86e7-872cb8e38b26.png)
-
 
 ##### 3- Kafka-UI  ![default_49a504fbaa35a1b07b8f44abb9b90b8996f6068d](https://user-images.githubusercontent.com/62883434/221398458-a18c08d7-0b6a-4705-9515-7ba305c34f55.png)
 
-
 ##### 4- KsqlDB  ![ksqldb](https://user-images.githubusercontent.com/62883434/221398695-7f571493-2f86-4e94-9b9f-91cfcad895f3.png)
 
-
-##### 5- Zookeeper
-
+##### 5- Zookeeper  ![Apache_ZooKeeper_logo svg](https://user-images.githubusercontent.com/62883434/221398847-63db89e2-96df-4173-be0a-d7dbc1d76d4e.png)
 
 ##### 6- Cassandra   ![cassandra](https://user-images.githubusercontent.com/62883434/221398533-4d046679-072c-4be5-bac2-885bcaaaf6a5.png)
 
-##### 7- EMQX
+##### 7- EMQX ![emqx](https://user-images.githubusercontent.com/62883434/221399042-a9cfb63c-7579-4250-abc4-811c43a0f6f8.png)
+
