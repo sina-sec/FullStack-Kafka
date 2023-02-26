@@ -8,8 +8,7 @@ Event streaming is the digital equivalent of the human body's central nervous sy
 
 Technically speaking, event streaming is the practice of capturing data in real-time from event sources like databases, sensors, mobile devices, cloud services, and software applications in the form of streams of events; storing these event streams durably for later retrieval; manipulating, processing, and reacting to the event streams in real-time as well as retrospectively; and routing the event streams to different destination technologies as needed. Event streaming thus ensures a continuous flow and interpretation of data so that the right information is at the right place, at the right time.
 
-### Full stack Kafka, Contain  'Kafka - Kafka-connect - Kafka-UI - KsqlDB - Zookeeper - Cassandra - EMQX'
-![kafkalogo](https://user-images.githubusercontent.com/62883434/214238951-c51fdfe8-76be-458f-9544-5037c756aef1.jpg)
+![kafkalogooo](https://user-images.githubusercontent.com/62883434/221397765-34d445e9-f2bc-4942-962f-14de4efd27cd.png)
 
 ### Kafka APIs
 ###### In addition to command line tooling for management and administration tasks, Kafka has five core APIs for Java and Scala:
@@ -19,3 +18,26 @@ The Producer API to publish (write) a stream of events to one or more Kafka topi
 The Consumer API to subscribe to (read) one or more topics and to process the stream of events produced to them.
 The Kafka Streams API to implement stream processing applications and microservices. It provides higher-level functions to process event streams, including transformations, stateful operations like aggregations and joins, windowing, processing based on event-time, and more. Input is read from one or more topics in order to generate output to one or more topics, effectively transforming the input streams to output streams.
 The Kafka Connect API to build and run reusable data import/export connectors that consume (read) or produce (write) streams of events from and to external systems and applications so they can integrate with Kafka. For example, a connector to a relational database like PostgreSQL might capture every change to a set of tables. However, in practice, you typically don't need to implement your own connectors because the Kafka community already provides hundreds of ready-to-use connectors.
+
+![kafka-on-ubuntu-apache-kafka](https://user-images.githubusercontent.com/62883434/221397823-b2e3dc1c-5347-4d61-919f-f3515a7ea714.png)
+
+### The packages available in this stack
+##### 1- Kafka
+
+
+##### 2- Kafka-connect
+
+
+##### 3- Kafka-UI
+
+
+##### 4- KsqlDB
+
+
+##### 5- Zookeeper
+
+
+##### 6- Cassandra
+
+
+##### 7- EMQX
